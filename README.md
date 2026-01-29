@@ -1,11 +1,92 @@
-- 👋 Hi, I’m @KingOfNinjas-Git
-- 👀 I’m interested in Progamming and Games
-- 🌱 I’m currently learning HTML/CSS/JS
-- 📫 How to reach me: KingOfNinjas <--- Discord
-- 😄 Pronouns: He/They/Them
-- ⚡ Fun fact: Im Extroverted and really enjoy talking to others.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=180&section=header&text=Francisco%20Cavaco&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!---
-KingOfNinjas-Git/KingOfNinjas-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Web Developer · Frontend Focused · Accessibility Advocate</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+and+accessible+UIs;Frontend+Web+Development;Laravel+%26+React+Enjoyer;Always+Learning" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FranciscoCavaco&style=for-the-badge&color=6366f1" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 CTeSP in **Video Game Development & Multimedia Applications** at **Instituto Piaget**
+* 💼 Former **Web Developer Intern @ Mindshaker**
+* 🌱 Specializing in **Frontend & Web Development**
+* ♿ Strong focus on **Digital Accessibility (WCAG)**
+* 🎮 Passionate about **video games & interactive media**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,laravel,mysql,git,github" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+* 🧼 **Soap E‑commerce Website** — Laravel + Tailwind CSS
+* 📝 **Laravel Blog Platform** — Auth with Laravel Breeze
+* 🔍 **Job Search Web App** — Database‑driven search system
+* ✅ **Task Manager App** — Flutter + local database
+* 🎮 **React Todo App** — Component‑based UI
+
+---
+
+## 🧪 Internship Timeline (Mindshaker)
+
+```text
+Mar 17 – Mar 24   HTML / CSS / JavaScript
+Mar 24 – Apr 15   "Mãe" Website Project
+Apr 15 – Apr 23   Laravel Course
+Apr 23 – May 13   Laravel Blog Project
+May 13 – May 17   React Course
+May 17 – May 29   React Todo App
+May 30 – Jul 07   Final Project
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FranciscoCavaco&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranciscoCavaco&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCavaco&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🎯 Goals
+
+* 🚀 Grow as a **Frontend / Web Developer**
+* ♿ Build inclusive, accessible interfaces
+* 🧠 Learn through real‑world projects
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/FranciscoCavaco">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">⭐ Always curious. Always building.</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:1e3a8a&height=120&section=footer" />
+</p>
