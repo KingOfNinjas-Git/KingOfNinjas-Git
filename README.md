@@ -60,21 +60,21 @@ May 30 – Jul 07   Final Project
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=FranciscoCavaco&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=KingOfNinjas-Git&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=FranciscoCavaco&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=KingOfNinjas-Git&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCavaco&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingOfNinjas-Git&layout=compact&theme=tokyonight&hide_border=true"
     height="150"
   />
 </p>
