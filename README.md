@@ -56,7 +56,7 @@ May 30 – Jul 07   Final Project
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -67,7 +67,7 @@ May 30 – Jul 07   Final Project
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=KingOfNinjas-Git&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=KingOfNinjas-Git&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
