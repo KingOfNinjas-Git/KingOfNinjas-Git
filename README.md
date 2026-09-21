@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:9333ea&height=180&section=header&text=Francisco%20Cavaco&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Web Developer · Frontend Focused · Accessibility Advocate</h2>
+<h2 align="center">Web Developer · Frontend Focused · Accessibility specialist</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Building+clean+and+accessible+UIs;Frontend+Web+Development;Laravel+%26+React+Enjoyer;Always+Learning" />
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 🎓 CTeSP in **Video Game Development & Multimedia Applications** at **Instituto Piaget**
 * 💼 Former **Web Developer Intern @ Mindshaker**
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,flutter,laravel,mysql,git,github" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 * 🧼 **Soap E‑commerce Website** — Laravel + Tailwind CSS
 * 📝 **Laravel Blog Platform** — Auth with Laravel Breeze
@@ -42,7 +42,7 @@
 
 ---
 
-## 🧪 Internship Timeline (Mindshaker)
+## Internship Timeline (Mindshaker)
 
 ```text
 Mar 17 – Mar 24   HTML / CSS / JavaScript
@@ -55,11 +55,11 @@ May 30 – Jul 07   Final Project
 ```
 ---
 
-## 🎯 Goals
+## Goals
 
-* 🚀 Grow as a **Frontend / Web Developer**
-* ♿ Build inclusive, accessible interfaces
-* 🧠 Learn through real‑world projects
+* Grow as a **Frontend / Web Developer**
+* Build inclusive, accessible interfaces
+* Learn through real‑world projects
 
 ---
 
