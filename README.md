@@ -93,23 +93,12 @@ const francisco: DeveloperProfile = {
 
   <!-- Row 1: Stats & Animated Streak -->
   <p align="center">
-    <a href="https://github.com/FranciscoCavaco">
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=FranciscoCavaco&show_icons=true&rank_icon=github&bg_color=090d16&title_color=a855f7&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&border_radius=8" alt="GitHub Stats" />
+   <a href="https://github.com/KingOfNinjas-Git">
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingOfNinjas-Git&layout=compact&langs_count=6&bg_color=090d16&title_color=a855f7&text_color=94a3b8&border_color=1e293b&border_radius=8" alt="Top Languages" />
     </a>
     &nbsp;
-    <a href="https://github.com/FranciscoCavaco">
-      <img height="165" src="https://streak-stats.demolab.com?user=FranciscoCavaco&theme=dark&background=090d16&border=1e293b&stroke=1e293b&ring=a855f7&fire=38bdf8&currStreakLabel=a855f7&border_radius=8" alt="GitHub Streak" />
-    </a>
-  </p>
-
-  <!-- Row 2: Top Languages & Commit Summary Cards -->
-  <p align="center">
-    <a href="https://github.com/FranciscoCavaco">
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCavaco&layout=compact&langs_count=6&bg_color=090d16&title_color=a855f7&text_color=94a3b8&border_color=1e293b&border_radius=8" alt="Top Languages" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/FranciscoCavaco">
-      <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FranciscoCavaco&theme=tokyonight" alt="Commit Summary" />
+    <a href="https://github.com/KingOfNinjas-Git">
+      <img height="165" src="https://streak-stats.demolab.com?user=KingOfNinjas-Git&theme=dark&background=090d16&border=1e293b&stroke=1e293b&ring=a855f7&fire=38bdf8&currStreakLabel=a855f7&border_radius=8" alt="GitHub Streak" />
     </a>
   </p>
 
