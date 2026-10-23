@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
+  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090d16,50:1e1b4b,100:581c87&height=200&section=header&text=Francisco%20Cavaco&fontSize=46&fontColor=f8fafc&fontAlignY=40&desc=Web%20Developer%20%C2%B7%20Computer%20Engineering%20Student&descSize=18&descColor=38bdf8&descAlignY=65&animation=twinkling" alt="Header" />
 
-  <!-- Dual-Line Animated Terminal Typing (Piaget line removed) -->
+  
   <a href="https://franciscowebdev.com/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=%3E+Building+clean%2C+inclusive+%26+accessible+UIs+(WCAG);%3E+Frontend+Architecture+%C2%B7+OOP+%C2%B7+Relational+Databases;%3E+Explore+my+featured+work+on+my+portfolio+below" alt="Typing SVG" />
   </a>
@@ -13,7 +13,7 @@
 
   <br/>
 
-  <!-- Centered Title & Centered Code Block -->
+  
   <h3 align="center"><code>~/about-me.ts</code></h3>
 
   <table align="center">
@@ -39,8 +39,7 @@ const francisco: DeveloperProfile = {
   </table>
 
   <br/>
-
-  <!-- Centered Title & 3-Column Architecture Table -->
+  
   <h3 align="center"><code>~/core-architecture</code></h3>
 
   <table width="100%" align="center">
@@ -66,7 +65,6 @@ const francisco: DeveloperProfile = {
 
   <br/>
 
-  <!-- Centered Title & Categorized Skill Icons -->
   <h3 align="center"><code>~/tech-stack</code></h3>
 
   <table align="center">
@@ -86,12 +84,10 @@ const francisco: DeveloperProfile = {
 
   <br/>
 
-  <!-- Centered Title & Telemetry Dashboard -->
   <h3 align="center"><code>~/github-telemetry</code></h3>
 
   <br/>
 
-  <!-- Row 1: Stats & Animated Streak -->
   <p align="center">
    <a href="https://github.com/KingOfNinjas-Git">
       <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingOfNinjas-Git&layout=compact&langs_count=6&bg_color=090d16&title_color=a855f7&text_color=94a3b8&border_color=1e293b&border_radius=8" alt="Top Languages" />
@@ -104,7 +100,6 @@ const francisco: DeveloperProfile = {
 
   <br/>
 
-  <!-- Animated Wave Footer -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e1b4b,100:581c87&height=120&section=footer&animation=fadeIn" alt="Footer" />
 
 </div>
